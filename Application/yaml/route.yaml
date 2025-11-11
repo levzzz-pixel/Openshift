@@ -7,7 +7,7 @@ spec:
   to:
     kind: Service
 # set your user name
-    name:  levz-hello-world
+    name:  user3-hello-world
     weight: 100
   port:
     targetPort: 8080
